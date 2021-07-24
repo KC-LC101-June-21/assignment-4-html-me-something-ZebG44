@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+body {
+    margin: 8 "px";
+    display: block
+}
+h2{
+    color:darkred;
+    margin-left: 200;
+    margin-right: 150;
+    border: 1px solid black;
+    background-color: lightgrey;
+}
+p {
+    text-align: center;
+    font-size: 125%;
+  } 
+figure {
+        padding-top: 50px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 180px; 
+}
+    .funParagraph {
+        color: green;
+        font-weight:bold;
+    }
+    .centerpic {
+        text-align: center;
+    }
+        #greekCoin {
+            text-align: center;
+            color: gold;
+        }
+        #mainHeading {
+            text-align: center;
+            font-size: 185.0%;
+            color: red;
+        }
